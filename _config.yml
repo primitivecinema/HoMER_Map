@@ -25,7 +25,7 @@ title: HoMER Global Projects Map
 tagline: A beta test for a Collection Builder HoMER map
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a beta site for a HoMER membership global projects map utilzing CollectionBuilder-Sheets a template for creating digital exhibit websites by loading collection metadata directly from a CSV file."
+description: "This is a beta site for a HoMER membership global projects map utilzing CollectionBuilder-Sheets, a template for creating digital exhibit websites by loading collection metadata directly from a CSV file."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
